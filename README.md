@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/137402440-fe13d1de-0833-4ba4-9158-f03c9e478e54.png">
   <br />
   Apache Cassandra Guide
 </h1>
@@ -8,14 +8,14 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137402442-01feaec5-a468-4951-a523-8b8662748929.png">
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137402449-75141dce-226a-4524-ad4f-ab0aedaa196c.png">
  <br />
 </p>
 
- Apache Cassandra and Kubernetes Operator Capabilities. Source: [Apache Cassandra](http://cassandra.apache.org/blog/2020/08/14/cassandra-and-kubernetes-sig-update.html)
+ Apache Cassandra and Kubernetes Operator Capabilities. Source: [Apache Cassandra](https://cassandra.apache.org/blog/2020/08/14/cassandra-and-kubernetes-sig-update.html)
 
 # Table of Contents
 
