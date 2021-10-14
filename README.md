@@ -63,7 +63,7 @@
 
 
 # Apache Cassandra Learning Resources
-[Back to the Top](https://github.com/mikeroyal/Apache-CassandraGuide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Cassandra-Guide#table-of-contents)
 
 [Apache Cassandra™](https://cassandra.apache.org/) is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 
